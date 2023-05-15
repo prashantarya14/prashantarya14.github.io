@@ -1,0 +1,171 @@
+﻿const generatedBibEntries = {
+    "deng_2019_realtime": {
+        "author": "Deng, Wanghua and Wu, Ruoxue",
+        "doi": "10.1109/access.2019.2936663",
+        "journal": "IEEE Access",
+        "pages": "118727-118738",
+        "title": "Real-Time Driver-Drowsiness Detection System Using Facial Features",
+        "type": "article",
+        "urldate": "2019-10-05",
+        "volume": "7",
+        "year": "2019"
+    },
+    "dey_2019_real": {
+        "author": "Dey, Sanjay and Chowdhury, Sami Ahbab and Sultana, Subrina and Hossain, Md. Ali and Dey, Monisha and Das, Sajal K.",
+        "doi": "10.1109/SPICSCON48833.2019.9065120",
+        "month": "11",
+        "organization": "IEEE Xplore",
+        "pages": "135\u2013140",
+        "title": "Real Time Driver Fatigue Detection Based on Facial Behaviour along with Machine Learning Approaches",
+        "type": "misc",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9065120",
+        "urldate": "2023-04-16",
+        "year": "2019"
+    },
+    "gaozhenhai_2017_driver": {
+        "author": "Gao Zhenhai and DinhDat, Le and Hu Hongyu and Ziwen, Yu and Wu Xinyu",
+        "doi": "10.1109/icmtma.2017.0031",
+        "journal": "",
+        "month": "01",
+        "title": "Driver Drowsiness Detection Based on Time Series Analysis of Steering Wheel Angular Velocity",
+        "type": "article",
+        "urldate": "2023-05-15",
+        "year": "2017"
+    },
+    "hashemi_2020_driver": {
+        "author": "Hashemi, Maryam and Mirrashid, Alireza and Beheshti Shirazi, Aliasghar",
+        "doi": "10.1007/s42979-020-00306-9",
+        "journal": "SN Computer Science",
+        "month": "08",
+        "title": "Driver Safety Development: Real-Time Driver Drowsiness Detection System Based on Convolutional Neural Network",
+        "type": "article",
+        "volume": "1",
+        "year": "2020"
+    },
+    "hu_2009_driver": {
+        "author": "Hu, Shuyan and Zheng, Gangtie",
+        "doi": "10.1016/j.eswa.2008.09.030",
+        "journal": "Expert Systems with Applications",
+        "month": "05",
+        "pages": "7651-7658",
+        "title": "Driver drowsiness detection with eyelid related parameters by Support Vector Machine",
+        "type": "article",
+        "urldate": "2020-10-15",
+        "volume": "36",
+        "year": "2009"
+    },
+    "jiao_2014_recognizing": {
+        "author": "Jiao, Yingying and Peng, Yong and Lu, Bao-Liang and Chen, Xiaoping and Chen, Shanguang and Wang, Chunhui",
+        "doi": "10.1109/ijcnn.2014.6889615",
+        "journal": "",
+        "month": "07",
+        "title": "Recognizing slow eye movement for driver fatigue detection with machine learning approach",
+        "type": "article",
+        "urldate": "2023-05-14",
+        "year": "2014"
+    },
+    "kim_2015_segmentation": {
+        "author": "Kim, Ki-Wan and Won Young Lee and Yeong Shik Kim and Hyung Gil Hong and Eui Chul Lee and Kang Ryoung Park",
+        "doi": "10.1117/1.oe.54.3.033103",
+        "journal": "",
+        "month": "03",
+        "title": "Segmentation method of eye region based on fuzzy logic system for classifying open and closed eyes",
+        "type": "article",
+        "urldate": "2023-05-15",
+        "year": "2015"
+    },
+    "kumar_2019_an": {
+        "author": "Kumar, Ashwani and Reddy, S S Sai Satyanarayana and Kulkarni, Vivek",
+        "doi": "10.1109/ICIIP47207.2019.8985965",
+        "month": "11",
+        "organization": "IEEE Xplore",
+        "pages": "292\u2013297",
+        "title": "An Object Detection Technique For Blind People in Real-Time Using Deep Neural Network",
+        "type": "misc",
+        "url": "https://ieeexplore.ieee.org/document/8985965",
+        "urldate": "2022-03-01",
+        "year": "2019"
+    },
+    "lee_2012_a": {
+        "author": "Lee, Boon-Giin and Chung, Wan-Young",
+        "doi": "10.3390/s121217536",
+        "journal": "Sensors",
+        "month": "12",
+        "pages": "17536-17552",
+        "title": "A Smartphone-Based Driver Safety Monitoring System Using Data Fusion",
+        "type": "article",
+        "urldate": "2019-09-01",
+        "volume": "12",
+        "year": "2012"
+    },
+    "liu_2022_a": {
+        "author": "Liu, Fan and Chen, Delong and Zhou, Jun and Xu, Feng",
+        "doi": "10.1016/j.engappai.2022.105399",
+        "journal": "Engineering Applications of Artificial Intelligence",
+        "month": "11",
+        "pages": "105399",
+        "title": "A review of driver fatigue detection and its advances on the use of RGB-D camera and deep learning",
+        "type": "article",
+        "urldate": "2022-11-21",
+        "volume": "116",
+        "year": "2022"
+    },
+    "magosso_2006_a": {
+        "author": "Magosso, Elisa and Provini, Federica and Montagna, Pasquale and Ursino, Mauro",
+        "doi": "10.1016/j.medengphy.2006.01.002",
+        "journal": "Medical Engineering & Physics",
+        "month": "11",
+        "pages": "860-875",
+        "title": "A wavelet based method for automatic detection of slow eye movements: A pilot study",
+        "type": "article",
+        "urldate": "2021-03-30",
+        "volume": "28",
+        "year": "2006"
+    },
+    "mohsenbabaeian_2016_real": {
+        "author": "Mohsen Babaeian and Bhardwaj, Nitish and Esquivel, Bianca and Mozumdar, Mohammad",
+        "doi": "10.1109/igesc.2016.7790075",
+        "journal": "",
+        "month": "11",
+        "title": "Real time driver drowsiness detection using a logistic-regression-based machine learning algorithm",
+        "type": "article",
+        "urldate": "2023-05-15",
+        "year": "2016"
+    },
+    "omidyeganeh_2011_intelligent": {
+        "author": "Omidyeganeh, M. and Javadtalab, A. and Shirmohammadi, S.",
+        "doi": "10.1109/VECIMS.2011.6053857",
+        "month": "09",
+        "organization": "IEEE Xplore",
+        "pages": "1\u20136",
+        "title": "Intelligent driver drowsiness detection through fusion of yawning and eye closure",
+        "type": "misc",
+        "url": "https://ieeexplore.ieee.org/abstract/document/6053857",
+        "urldate": "2020-11-21",
+        "year": "2011"
+    },
+    "venkatasaivardhan_2021_drivers": {
+        "author": "Venkata Sai Vardhan, V. and Ritish Kumar Reddy, N. and Jaya Surya, K. and Uday Kiran, J. and Kumar, Ashwani",
+        "doi": "10.1088/1742-6596/1998/1/012034",
+        "journal": "Journal of Physics: Conference Series",
+        "month": "08",
+        "pages": "012034",
+        "title": "Driver\u2019s Drowsiness Detection Based on Facial Multi-Feature Fusion",
+        "type": "article",
+        "urldate": "2022-04-28",
+        "volume": "1998",
+        "year": "2021"
+    },
+    "yan_2016_realtime": {
+        "author": "Yan, Jun-Juh and Kuo, Hang-Hong and Lin, Ying-Fan and Liao, Teh-Lu",
+        "doi": "10.1109/IS3C.2016.72",
+        "month": "07",
+        "organization": "IEEE Xplore",
+        "pages": "243\u2013246",
+        "title": "Real-Time Driver Drowsiness Detection System Based on PERCLOS and Grayscale Image Processing",
+        "type": "misc",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7545182",
+        "urldate": "2022-05-24",
+        "year": "2016"
+    }
+};
